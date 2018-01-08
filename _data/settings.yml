@@ -1,0 +1,108 @@
+#-------------------------------
+# General Site Settings
+
+title: A part of my life
+description: Thinker // Designer
+email: arpansingh48@gmail.com
+
+# NOTE: The Logo and Background image are defined in the all.sass document.
+
+menu:
+- {name: About Me, url: '#about-me'}
+- {name: Work, url: '#work'}
+- {name: Employment/Internship, url: '#clients'}
+- {name: Contact, url: '#contact'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Welkome to my porfolio'
+  rel-author: 'https://plus.google.com/115032961638252160926'
+  rel-publisher: 'https://plus.google.com/115032961638252160926'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+#google-analytics-ua: UA-XXXXXX-X
+
+#-------------------------------
+# About Section
+
+# NOTE: The avatar is defined in the all.sass document.
+
+blurb: >
+  **Welcome to my website ! My name is Arpan Singh. I currently follow a course where I create applications and websites . Therefore , I have an online portfolio.**
+  <br/><br/>
+  I was born in Capelle aan den IJssel and I have lived here my whole life.
+  I'm currently on the college Zadkine in Rotterdam. I follow the course Application and media developer.
+  This is a level 4 training and I am in the second grade.
+  <br/><br/>
+  **Work**. I currently have a job as shelf restocker at the Dirk van den Broek.
+  I do this work because it's nice to earn your own money, but it was a bit too much to fill only shelves and to lead a group of people.
+  I am therefore looking for a job where I fill more than shelves. I think selling is so much more fun than filling shelves.
+
+
+
+skills:
+- {name: Communication, value: '7'}
+- {name: HTML, value: '7'}
+- {name: Learning, value: '8'}
+- {name: CSS, value: '7'}
+- {name: Planning, value: '7'}
+- {name: Bootstrap, value: '8'}
+- {name: Visual Design, value: '7'}
+- {name: MySQL, value: '5'}
+
+#-------------------------------
+# Work Section
+
+projects:
+
+- {name: Work in progress, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: Work in progress, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: Work in progress, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: Work in progress, folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: Work in progress, folder: 'proj-6', file: 'work/proj-6.html'}
+- {name: Work in progress, folder: 'proj-7', file: 'work/proj-7.html'}
+- {name: Work in progress, folder: 'proj-8', file: 'work/proj-8.html'}
+- {name: Work in progress, folder: 'proj-9', file: 'work/proj-9.html'}
+
+
+
+
+#-------------------------------
+# Clients Section
+
+clients:
+- {avatar: 'face-aaroni.jpg',
+  name: 'Dirk van den Broek',
+  title: 'zevenkampsering',
+  quote: '<p><strong>Restocked of shelves</strong> 2015-present 12 hours a week</p>',
+  logo: 'logo1.png'}
+- {avatar: 'face-atariboy.jpg',
+  name: 'TopCloudXL',
+  title: 'Hoogvliet',
+  quote: '<p><strong>Media developer</strong> 2016-present 32 hours a week</p>',
+  logo: 'logo2.png'}
+
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'twitter', link: 'https://twitter.com/arpalisious'}
+- {icon: 'instagram', link: 'https://www.instagram.com/arpan.s/'}
+- {icon: 'google-plus', link: 'https://plus.google.com/115032961638252160926'}
+- {icon: 'facebook', link: 'https://www.facebook.com/arpan.singh.3511'}
+- {icon: 'soundcloud', link: 'https://soundcloud.com/arpan-singh-4'}
+
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
